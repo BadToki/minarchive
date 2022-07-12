@@ -1,7 +1,9 @@
 
 # 나막신 흑피화등 신발
 
-[![대표이미지](http://www.kfaf.or.kr/archive/image/2010 한국민속예술제 main.png)](//www.naver.com)
+[![나막신 흑피화등 신발](http://www.kfaf.or.kr/archive/image/2010 한국민속예술제 main.png)](//www.naver.com)
+
+[![대표이미지](http://www.google.com/images/logo.gif "align=right")](//www.naver.com)
 
 #########################################
 #### '출처'는 반드시 삽입해야 합니다. ##
