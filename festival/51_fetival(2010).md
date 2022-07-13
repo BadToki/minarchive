@@ -11,7 +11,7 @@
 | 참가대상 | 청소년  - 14개 시‧도 학교대표 (서울특별시, 울산광역시, 세종특별자치시 불참) * 일반 : 15개 시‧도 및 이북5도 (서울특별시, 세종특별자치시 불참) | 
 | 구성  | **공식행사**<br/>- 전국청소년민속예술제 및 한국민속예술축제<br/>- 제23회 전국청소년민속예술제(경연)<br/>**1～2일차**<br/>- 제57회 한국민속예술축제(경연)<br/>**3～4일차**<br/>-사전행사 <br/>영고, 신들소리, 꽃놀이 난장	* 초청공연 ** 전년도 일반부 우승팀 외	<br/>* 특별행사 ** 좌담회‘민속예술 60주년을 조망하다’	** 온고을 길꼬내기 	** 두 남자의 전통이야기 [장사익], [이준익]	| 
 | ::: | * 부대행사 ** 체험마당, 먹거리마당, 홍보마당, 프리마켓 | 
-| 상징물   | [![상징물](https://github.com/BadToki/minarchive/blob/e67ee8d42a4075acb4abecf87b715400754abaea/archive/image/%EC%A0%9C51%ED%9A%8C%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%86%8D%EC%98%88%EC%88%A0%EC%B6%95%EC%A0%9C%ED%9C%98%EC%9E%A5.jpg)](https://github.com/BadToki/minarchive/blob/7957b485d38dd60378f72fe59b5ba7100701b7e5/asset/picture/pic-%EC%A0%9C51%ED%9A%8C%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%86%8D%EC%98%88%EC%88%A0%EC%B6%95%EC%A0%9C%ED%9C%98%EC%9E%A5.md) | 
+| 상징물   | [![상징물](////github.com/BadToki/minarchive/blob/eb781c3170fc333dbdc0a98252b40bc042020f4a/archive/image/thumb-%E1%84%8C%E1%85%A651%E1%84%92%E1%85%AC%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%86%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%92%E1%85%B1%E1%84%8C%E1%85%A1%E1%86%BC.jpg)](https://github.com/BadToki/minarchive/blob/7957b485d38dd60378f72fe59b5ba7100701b7e5/asset/picture/pic-%EC%A0%9C51%ED%9A%8C%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%86%8D%EC%98%88%EC%88%A0%EC%B6%95%EC%A0%9C%ED%9C%98%EC%9E%A5.md) | 
 | 주최	| 문화체육관광부, 전라북도, 전주시 | 
 | 주관	| 제51회 한국민속예술축제 추진위원회, (재)전통공연예술진흥재단 | 
 | 후원	| 한국문화예술위원회, 국립무형유산원 | 
