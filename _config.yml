@@ -1,8 +1,48 @@
 locale : "ko-KR"    # 블로그의 주요 언어입니다. 한국어로 보려고 ko-KR로 설정했습니다.
-title  : "정리가 재밌는 개발자 Blog"  # 사이트 탭에서 보이는 이름입니다.
 character-set : utf-8
 
 theme: jekyll-theme-cayman
 
 - name: Markdown Docs
   uses: ldeluigi/markdown-docs@v0.6.0
+
+# other setting
+title: 민속곳간 [한국민속예술추제 아카이브]
+email: 'tokinara@gmail.com'
+description: ...
+baseurl: ...
+url: https://graphist.github.io
+twitter_username: ...
+github_username: ...
+author: tokinara@gmail.com
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-polyglot
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# pagination
+permalink: /:year/:month/
+pagination:
+  enabled: true
+  per_page: 12
+  sort_reverse: true
+  limit: 0
+  sort_field: 'date'
+  permalink: '/page/:num/'
+  title: ':title'
+  trail:
+    before: 2
+    after: 2
+
+# multilang
+languages: ['ko', 'en', 'ja' ]
+default_lang: 'ko'
+exclude_from_localization: ['javascript', 'images', 'css']
+parallel_localization: false
