@@ -1,4 +1,4 @@
-<meta charset="utf-8">
+<meta charset="euc-kr">
 
 # 2010년 제51회 한국민속예술축제
 
