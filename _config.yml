@@ -1,3 +1,7 @@
+locale : "ko-KR"    # 블로그의 주요 언어입니다. 한국어로 보려고 ko-KR로 설정했습니다.
+title  : "정리가 재밌는 개발자 Blog"  # 사이트 탭에서 보이는 이름입니다.
+character-set : utf-8
+
 theme: jekyll-theme-cayman
 
 - name: Markdown Docs
