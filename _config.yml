@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+- name: Markdown Docs
+  uses: ldeluigi/markdown-docs@v0.6.0
