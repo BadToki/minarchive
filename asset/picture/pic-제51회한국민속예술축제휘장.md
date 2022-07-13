@@ -1,7 +1,7 @@
 
 # 제51회한국민속예술축제휘장.jpg
 
-![대표이미지](https://github.com/BadToki/minarchive/blob/1cd706bf8a9fe14842dd42e6db9153cd5c0b6f9d/archive/image/%E1%84%92%E1%85%AA%E1%84%89%E1%85%A5%E1%86%BC%E1%84%86%E1%85%A1%E1%84%83%E1%85%A9%E1%84%82%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8(2010).png)
+![대표이미지](https://github.com/BadToki/minarchive/blob/e67ee8d42a4075acb4abecf87b715400754abaea/archive/image/%EC%A0%9C51%ED%9A%8C%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%86%8D%EC%98%88%EC%88%A0%EC%B6%95%EC%A0%9C%ED%9C%98%EC%9E%A5.jpg)
 
 
 ## 기본 정보 
